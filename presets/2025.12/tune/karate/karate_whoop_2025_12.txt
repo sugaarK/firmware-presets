@@ -9,7 +9,7 @@
 
 #$ DESCRIPTION:
 #$ DESCRIPTION: <img src="https://user-images.githubusercontent.com/19867640/174759844-ffd85f42-1f1c-42bf-9032-d9f96d4d9619.svg" width="90px" style="display: block; float: left; margin-right: 10px; margin-top: 20px"/>
-#$ DESCRIPTION: <h1>Karate Race 6S 5"</h1>
+#$ DESCRIPTION: <h1>Karate Race Whoop 65mm</h1>
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: This 1s whoop racing tune was developed using my custom Betafpv 5n1 build that weighs 15.6g [Air Brushless FC](https://betafpv.com/collections/brushless-flight-controller/products/air-brushless-flight-controller?variant=41142912745606) it is a slider tune allowing easy modification. 
@@ -24,7 +24,7 @@
 #$ DESCRIPTION: ## Things to note:
 #$ DESCRIPTION:
 #$ DESCRIPTION: - **YOU HAVE TO USE RPM FILTERING WITH THIS TUNE!** Failure to do so might result in fire 🔥
-#$ DESCRIPTION: - Also this should be applied to a clean flash after you've setup your rates, swtiches, vtx tables etc.
+#$ DESCRIPTION: - Also this should be applied to a clean flash after you've setup your rates, switches, vtx tables etc.
 #$ DESCRIPTION: - To test arm the quad with props on, it should **sound clean with no grinding**. If it passes that then hover test and check motor temps.
 #$ DESCRIPTION: - **If anything is off, don't fly it!!**
 #$ DESCRIPTION:   48khz firmware is recommended using 96khz will reduce the authority by a big margin and likely won’t fly very well.
@@ -34,7 +34,7 @@
 #$ DESCRIPTION: ## Radio links:
 #$ DESCRIPTION: 1. Make sure your radio firmware is up to date using either EdgeTX or OpenTX
 #$ DESCRIPTION: 2. Make sure your **ADC Filter is OFF** in the hardware page
-#$ DESCRIPTION: 3. @adio link rate is automatically detected and adjusted for with links above 150hz
+#$ DESCRIPTION: 3. Radio link rate is automatically detected and adjusted for with links above 150hz
 
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/574
 
