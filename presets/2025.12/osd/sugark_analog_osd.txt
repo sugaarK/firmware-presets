@@ -15,8 +15,7 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: Preview:
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: <img src="https://github.com/betaflight/firmware-presets/assets/83344205/039e4153-b056-4244-91e1-2b06501326d4" style="width:100%"/>
-#$ DESCRIPTION: 
+#$ DESCRIPTION: <img width="437" height="272" alt="Screenshot 2026-04-15 at 3 27 51 pm" src="https://github.com/user-attachments/assets/71bc26fc-2fe6-4478-899e-7f61dab72398" />
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/576
 
 #$ INCLUDE: presets/2025.12/osd/defaults.txt
