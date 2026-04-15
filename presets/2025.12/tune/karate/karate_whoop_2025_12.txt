@@ -69,6 +69,7 @@ set iterm_relax_cutoff = 45
 set thrust_linear = 20
 set vbat_max_cell_voltage = 445
 set cpu_late_limit_permille = 15
+set vbat_max_cell_voltage = 445
 
 #$ OPTION_GROUP BEGIN: Dynamic Idle
 
@@ -165,11 +166,13 @@ simplified_tuning apply
     
     #$ OPTION BEGIN (UNCHECKED): throttle expo for 30% hover throttle
         set thr_mid = 30
+        set thr_hover = 30
         set thr_expo = 65
     #$ OPTION END
     
     #$ OPTION BEGIN (UNCHECKED): throttle expo for 45% hover throttle
         set thr_mid = 45
+        set thr_hover = 45
         set thr_expo = 65
     #$ OPTION END
     
